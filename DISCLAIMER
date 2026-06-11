@@ -1,0 +1,39 @@
+ORIGEN DE LOS DATOS, LICENCIA Y AVISO LEGAL
+
+1. FUENTES DE LOS DATOS
+Este repositorio utiliza datos públicos de jurisprudencia obtenidos de las 
+siguientes fuentes:
+
+* Dataset estructurado: Utilizamos el conjunto de datos curado y publicado por 
+  marianbasti, alojado en la plataforma Hugging Face 
+  (https://huggingface.co/datasets/marianbasti/jurisprudencia-Argentina-SAIJ). 
+  Este corpus fue el punto de partida para la obtención de los sumarios y sus 
+  respectivas etiquetas de fuero.
+
+* Fuente primaria: Los documentos judiciales y fallos completos son de acceso 
+  público y provienen del acervo del Sistema Argentino de Información 
+  Jurídica (SAIJ).
+
+
+2. LICENCIA Y USO
+* El dataset original de marianbasti se encuentra distribudo bajo la licencia 
+  Apache 2.0, la cual permite su uso y modificación con fines educativos y de 
+  investigación, otorgando el crédito correspondiente al autor original.
+
+* El código desarrollado en este repositorio es de código abierto (ver LICENSE) 
+  y tiene un fin puramente académico.
+
+
+3. AVISO LEGAL
+Todo el código, los modelos predictivos y los motores de búsqueda desarrollados 
+en este proyecto tienen como único propósito el aprendizaje empírico de 
+técnicas de Procesamiento de Lenguaje Natural (NLP) y Machine Learning. 
+
+Este repositorio no proporciona asesoramiento legal ni pretende reemplazar el 
+criterio de un profesional del derecho. Los algoritmos entrenados y los 
+resultados de las búsquedas semánticas pueden presentar sesgos, errores de 
+clasificación o información incompleta. 
+
+Por lo tanto, el contenido de este proyecto no debe utilizarse bajo ninguna 
+circunstancia para tomar decisiones jurídicas, redactar dictámenes o fundamentar 
+acciones legales reales.

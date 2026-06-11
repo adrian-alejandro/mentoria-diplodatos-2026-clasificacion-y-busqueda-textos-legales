@@ -26,9 +26,11 @@ El atractivo principal de esta mentoría es que ofrece un recorrido metodológic
 ## Datos
 En la carpeta `datos` se encuentran los datases que utilizaremos durante el proyecto:
 
-1. **Dataset Principal**: Utilizaremos el repositorio [marianbasti/jurisprudencia-Argentina-SAIJ](https://huggingface.co/datasets/marianbasti/jurisprudencia-Argentina-SAIJ), el cual está alojado en HuggingFace y contiene miles de fallos y resoluciones judiciales obtenidas del repositorio público del [Sistema Argentino de Información Jurídica (SAIJ)](https://www.saij.gob.ar/). 
+1. **Dataset Estructurado**: Utilizaremos el repositorio [marianbasti/jurisprudencia-Argentina-SAIJ](https://huggingface.co/datasets/marianbasti/jurisprudencia-Argentina-SAIJ), el cual está alojado en HuggingFace y contiene miles de fallos y resoluciones judiciales obtenidas del repositorio público del [Sistema Argentino de Información Jurídica (SAIJ)](https://www.saij.gob.ar/). 
 En la carpeta `datos` se encuentra una pequeña muestra aleatoria del dataset, el cual puede ser descargado en su totalidad utilizando la Jupyter notebook facilitado.
 
-2. **Dataset Auxiliar**: Muestra de uso opcional que consiste en documentos judiciales crudos en formato PDF (descargados directamente de la página oficial del SAIJ), y sus respectivas extracciones en formato TXT y la Jupyter notebook utilizada para la extracción. Se pueden encontrar en la carpeta `datos/fallos`.
+2. **Dataset Auxiliar (No-estructurado)**: Muestra de uso opcional que consiste en documentos judiciales crudos en formato PDF (descargados directamente de la página oficial del SAIJ), y sus respectivas extracciones en formato TXT y la Jupyter notebook utilizada para la extracción. Se pueden encontrar en la carpeta `datos/fallos`.
 
 Adicionalmente, se facilita una Jupyter notebook con instrucciones básicas de descarga y lectura del dataset.
+
+Consultar el archivo DISCLAIMER para más detalles sobre las fuentes del dataset y los términos de uso.
